@@ -10,6 +10,8 @@ Updates that may or may not come. I really don't care enough:
 
 Uses CefSharp libraries (Not included in repo)
 
+If you want to test the bot you can add a 2 robux t-shirt in the list and it will automatically buy it.
+
 ![Bot](shot.png)
 
 
