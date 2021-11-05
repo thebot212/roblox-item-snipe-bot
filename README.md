@@ -8,6 +8,9 @@ You need .NET Framework 4.8 - https://dotnet.microsoft.com/download/dotnet-frame
 
 If all else fails, install Google Chrome
 
+# Future Major updates
+- Make bot auto buy future limited items. (Most future limited items have time restrictions in the description)
+
 # roblox-item-snipe-bot
 A Roblox Item Snipe Bot. Actually working and not a scam like every YouTube video you see... 
 
