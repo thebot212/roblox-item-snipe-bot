@@ -1,8 +1,10 @@
 # Requirements
 
 VC++ 2019
+- x86 https://aka.ms/vs/16/release/vc_redist.x86.exe
+- x64 https://aka.ms/vs/16/release/vc_redist.x64.exe
 
-You need .NET Framework 4.8
+You need .NET Framework 4.8 - https://dotnet.microsoft.com/download/dotnet-framework/net48
 
 You need VC++ 2015 Runtime 32-bit and 64-bit versions - https://www.microsoft.com/en-in/download/details.aspx?id=48145
 
