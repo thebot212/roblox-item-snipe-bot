@@ -6,6 +6,8 @@ VC++ 2019
 
 You need .NET Framework 4.8 - https://dotnet.microsoft.com/download/dotnet-framework/net48
 
+If all else fails, install Google Chrome
+
 # roblox-item-snipe-bot
 A Roblox Item Snipe Bot. Actually working and not a scam like every YouTube video you see... 
 
