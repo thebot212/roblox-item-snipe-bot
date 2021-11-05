@@ -1,3 +1,9 @@
+#Requirements
+
+VC++ 2019
+You need .NET Framework 4.8
+You need VC++ 2015 Runtime 32-bit and 64-bit versions - https://www.microsoft.com/en-in/download/details.aspx?id=48145
+
 # roblox-item-snipe-bot
 A Roblox Item Snipe Bot. Actually working and not a scam like every YouTube video you see... 
 
